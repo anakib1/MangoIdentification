@@ -1,0 +1,8 @@
+jupyter
+huggingface-hub
+transformers
+datasets
+scikit-learn
+tqdm
+numpy
+pandas
